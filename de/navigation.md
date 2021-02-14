@@ -2,7 +2,7 @@
 
 [gimmick:theme](spacelab)
 
-[About](pages/about.md)
+[About](pages/_pages/Flussdiagramme.md)
 [Download](pages/download.md)
 
 [BET]()
