@@ -15,7 +15,7 @@ Die Warteschlangentheorie kann zur Analyse unterschiedlicher Systeme genutzt wer
 Das Ziel der Warteschlangentheorie ist die Ermittlung von Wartezeiten innerhalb des Systems zur Optimierung der gesamten Abläufe. In der Regel sollen damit die Gesamtkosten des Systems minimiert werden, um das Unternehmen effektiver zu machen. 
 
 Es werden unter anderem Vorgänge betrachtet, bei denen bestimmte Einheiten oder Transaktionen in unregelmäßigen oder unkontrollierbaren Abständen auf Engpässe treffen. Hier werden die ankommenden Einheiten abgefertigt, wobei es zu Wartezeiten kommen kann.
-<img src="assets/Warteschlangentheorie.assets/Warteschlange_1.png" alt="Warteschlange_1"  />
+<img src="assets/Warteschlangentheorie.assets/Warteschlange_1.png" alt="Warteschlange_1" style="zoom: 90%;" />
 
 ## Ein Beispiel als Einführung
 
